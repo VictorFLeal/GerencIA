@@ -1,19 +1,64 @@
-# Landing Page GerencIA
+GerencIA Landing Page
 
-Landing page em React + Vite para o GerencIA.
+Landing page oficial do GerencIA.
 
-## Ajustes feitos
+O GerencIA é uma plataforma SaaS de gestão inteligente para empresas que trabalham com agendamentos, reunindo agenda, financeiro, automações, relatórios e inteligência artificial em uma única solução.
 
-- Tudo em português.
-- Removido "conta grátis".
-- Removido foco exclusivo em barbearia.
-- Posicionamento para empresas com agendamento.
-- Planos pagos: Essencial, Pro e Business.
-- Identidade visual inspirada nas referências enviadas.
+✨ Sobre o Projeto
 
-## Rodar
+Esta aplicação contém apenas a landing page institucional do GerencIA, desenvolvida para apresentação visual da plataforma.
 
-```bash
+O objetivo é demonstrar:
+
+identidade visual
+proposta do produto
+funcionalidades
+planos
+posicionamento da marca
+experiência premium SaaS
+🎨 Funcionalidades apresentadas
+📅 Agenda inteligente
+👥 Gestão de clientes
+💰 Controle financeiro
+🧾 Sistema de comissões
+🤖 IA para criação de conteúdo
+📲 Automação WhatsApp
+📊 Relatórios avançados
+🏢 Multiunidades
+🖥️ Tecnologias utilizadas
+React
+Vite
+JavaScript
+CSS3
+Lucide React
+🎯 Objetivo da Landing Page
+
+A landing page foi criada para representar visualmente o ecossistema do GerencIA com foco em:
+
+design moderno
+experiência premium
+estética SaaS
+responsividade
+conversão
+apresentação comercial
+🚀 Executar Projeto
 npm install
 npm run dev
-```
+📌 Status do Projeto
+ Landing page institucional
+ Backend
+ Banco de dados
+ Dashboard funcional
+ Sistema SaaS completo
+ Autenticação
+ APIs
+ Integrações
+🏢 Sobre a LealSoft Labs
+
+A LealSoft Labs é uma startup focada no desenvolvimento de sistemas SaaS, plataformas inteligentes, automações e soluções modernas para empresas.
+
+O GerencIA é um dos produtos idealizados pela startup.
+
+📄 Licença
+
+Projeto privado. Todos os direitos reservados.
