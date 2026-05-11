@@ -30,7 +30,7 @@ const plans = [
   {
     name: "Essencial",
     price: "R$ 97",
-    features: ["Agenda completa", "Gestão de clientes", "1 profissional", "Checkout simples"],
+    features: ["Agenda completa", "Gestão de clientes", "5 profissional", "Checkout simples"],
     disabled: ["IA Marketing"],
     highlight: false
   },
